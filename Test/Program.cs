@@ -10,6 +10,8 @@ namespace Test
     {
         static void Main(string[] args)
         {
+            int egy = Convert.ToInt32(Console.ReadLine());
+            int ketto = Convert.ToInt32(Console.ReadLine());
         }
     }
 }
